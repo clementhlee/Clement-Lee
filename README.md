@@ -33,8 +33,7 @@
 🌟 **What I’m Working On**  
 - Creating a model examining the effect AI has on CO2 emissions.
 - Developing a ChatBot that recommends music based on emotions.
-- Feasible business analytics dashboard tracking supply chain fluctuations and operations. 
-- Combining technology and creativity in business projects to make meaningful impacts.  
+- Feasible business analytics dashboard tracking supply chain fluctuations and operations.  
 
 📚 **Interests**  
 - **Reading**: Classical literature and poetry 
